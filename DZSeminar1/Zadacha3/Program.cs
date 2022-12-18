@@ -6,7 +6,7 @@ Console.Write("Введите второе число: ");
 int b = int.Parse(Console.ReadLine()!);
 Console.Write("Введите третье число: ");
 int с = int.Parse(Console.ReadLine()!);
-int max = a;
+int max = 0;
 if (a > max) max = a;
 if (b > max) max = b;
 if (с > max) max = с;
