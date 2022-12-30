@@ -1,0 +1,5 @@
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Zadacha2\obj\Debug\net7.0\Zadacha2.csproj.AssemblyReference.cache
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Zadacha2\obj\Debug\net7.0\Zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Zadacha2\obj\Debug\net7.0\Zadacha2.AssemblyInfoInputs.cache
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Zadacha2\obj\Debug\net7.0\Zadacha2.AssemblyInfo.cs
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Zadacha2\obj\Debug\net7.0\Zadacha2.csproj.CoreCompileInputs.cache
