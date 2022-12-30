@@ -30,7 +30,6 @@ void PrintArray(int[,] matr)
 }
 
 int[,] matrix = new int[4, 5];
-
 FillArray(matrix);
 PrintArray(matrix);
 Console.WriteLine();
