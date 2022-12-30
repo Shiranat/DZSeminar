@@ -1,0 +1,15 @@
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\DZSeminar1\Zadacha9\bin\Debug\net7.0\Zadacha9.exe
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\DZSeminar1\Zadacha9\bin\Debug\net7.0\Zadacha9.deps.json
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\DZSeminar1\Zadacha9\bin\Debug\net7.0\Zadacha9.runtimeconfig.json
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\DZSeminar1\Zadacha9\bin\Debug\net7.0\Zadacha9.dll
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\DZSeminar1\Zadacha9\bin\Debug\net7.0\Zadacha9.pdb
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\DZSeminar1\Zadacha9\obj\Debug\net7.0\Zadacha9.csproj.AssemblyReference.cache
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\DZSeminar1\Zadacha9\obj\Debug\net7.0\Zadacha9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\DZSeminar1\Zadacha9\obj\Debug\net7.0\Zadacha9.AssemblyInfoInputs.cache
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\DZSeminar1\Zadacha9\obj\Debug\net7.0\Zadacha9.AssemblyInfo.cs
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\DZSeminar1\Zadacha9\obj\Debug\net7.0\Zadacha9.csproj.CoreCompileInputs.cache
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\DZSeminar1\Zadacha9\obj\Debug\net7.0\Zadacha9.dll
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\DZSeminar1\Zadacha9\obj\Debug\net7.0\refint\Zadacha9.dll
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\DZSeminar1\Zadacha9\obj\Debug\net7.0\Zadacha9.pdb
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\DZSeminar1\Zadacha9\obj\Debug\net7.0\Zadacha9.genruntimeconfig.cache
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\DZSeminar1\Zadacha9\obj\Debug\net7.0\ref\Zadacha9.dll
