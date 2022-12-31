@@ -5,7 +5,7 @@
 // N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1"
 
 Console.Write("Введите N:  ");
-int n = Int.Parse(Console.ReadLine());
+int n = int.Parse(Console.ReadLine()!);
 
 string PrintNumbers(int Number)
 {
