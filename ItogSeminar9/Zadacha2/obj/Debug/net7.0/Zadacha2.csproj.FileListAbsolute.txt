@@ -3,3 +3,13 @@ C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Za
 C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Zadacha2\obj\Debug\net7.0\Zadacha2.AssemblyInfoInputs.cache
 C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Zadacha2\obj\Debug\net7.0\Zadacha2.AssemblyInfo.cs
 C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Zadacha2\obj\Debug\net7.0\Zadacha2.csproj.CoreCompileInputs.cache
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Zadacha2\bin\Debug\net7.0\Zadacha2.exe
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Zadacha2\bin\Debug\net7.0\Zadacha2.deps.json
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Zadacha2\bin\Debug\net7.0\Zadacha2.runtimeconfig.json
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Zadacha2\bin\Debug\net7.0\Zadacha2.dll
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Zadacha2\bin\Debug\net7.0\Zadacha2.pdb
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Zadacha2\obj\Debug\net7.0\Zadacha2.dll
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Zadacha2\obj\Debug\net7.0\refint\Zadacha2.dll
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Zadacha2\obj\Debug\net7.0\Zadacha2.pdb
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Zadacha2\obj\Debug\net7.0\Zadacha2.genruntimeconfig.cache
+C:\Users\Карина\Desktop\Учёба GeekBrains\DZTretiiBlok\ItogSeminar9\Zadacha2\obj\Debug\net7.0\ref\Zadacha2.dll
